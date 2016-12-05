@@ -1,5 +1,5 @@
-"# alexa-mtz"
+# alexa-mtz
 
 
-filter dump:
+### filter dump
 cat dump.txt | grep -oP '^"(.*?)" ' |  tr -d - > filtered.txt
