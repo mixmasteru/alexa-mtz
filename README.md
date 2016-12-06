@@ -1,13 +1,10 @@
 # alexa-mtz
+![Mark Twain](https://github.com/mixmasteru/alexa-mtz/blob/master/img/icon_s.png)
 
 ## Short Skill Description
 Interessante und witzige Zitate von Mark Twain
 
-![Mark Twain](https://github.com/mixmasteru/alexa-mtz/blob/master/img/icon_s.png)
-
 ## Full Skill Description
-A description of the skill's purpose and features, and how it works. Should describe any prerequisites like hardware or account requirements and detailed steps for the customer to get started. For Flash Briefing skills, list the feeds offered within the skill. Use a conversational tone and correct grammar and punctuation. This description displays to customers on the skill detail card in the Alexa app.	
-
 Der Autor und Mark Twain war ein US-amerikanischer Schriftsteller mit dem bürgerlichen Namen Samuel Langhorne Clemens. Er wurde am 30. November 1835 in Florida, Missouri geboren und starb am 21. April 1910 in Redding, Connecticut.
 
 Von ihm stammen ein Menge interessanter und z.T. witziger Zitate. Dieser Skill kann zufällig eine Auswahl wieder geben.
