@@ -1,0 +1,11 @@
+GetNewQuoteIntent erzähle mir etwas
+GetNewQuoteIntent ein Zitat
+GetNewQuoteIntent ein Zitat von Twain
+GetNewQuoteIntent ein Zitat von Mark Twain 
+GetNewQuoteIntent sage mir ein ein Zitat von Mark Twain
+GetNewQuoteIntent gib mir ein Zitat von Mark Twain
+GetNewQuoteIntent gib mir ein Zitat von Twain
+GetNewQuoteIntent erzähle mir ein Zitat von Twain
+GetNewQuoteIntent sage mir etwas von Mark Twain
+GetNewQuoteIntent was hat Mark Twain gesagt
+GetNewQuoteIntent was hat Twain gesagt
