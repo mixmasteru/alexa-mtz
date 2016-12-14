@@ -9,3 +9,5 @@ GetNewQuoteIntent erzähle mir ein Zitat von Twain
 GetNewQuoteIntent sage mir etwas von Mark Twain
 GetNewQuoteIntent was hat Mark Twain gesagt
 GetNewQuoteIntent was hat Twain gesagt
+GetNewQuoteIntent einem Zitat
+GetNewQuoteIntent einem Zitat von Mark Twain
